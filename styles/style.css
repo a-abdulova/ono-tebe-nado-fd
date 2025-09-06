@@ -271,10 +271,6 @@ article {
   justify-self: center;
 }
 
-.footer__social-list {
-  justify-self: end;
-}
-
 .footer__menu-list {
   list-style: none;
   margin: 0;
@@ -296,10 +292,10 @@ article {
   list-style: none;
   margin: 0;
   padding: 0;
-
   display: flex;
   gap: 48px;
   align-items: center;
+  justify-self: end;
 }
 
 .footer__social-icon {
