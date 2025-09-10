@@ -147,7 +147,7 @@
   justify-content: space-between;
   color: #fff;
   padding: 48px 40px;
-  height: 596px;
+  min-height: 596px;
   background-size: cover;
   background-position: center;
 }
