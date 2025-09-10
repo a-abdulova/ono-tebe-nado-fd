@@ -173,10 +173,6 @@
   justify-content: center;
 }
 
-.lots__card-list-item {
-  list-style: none;
-}
-
 .card-link {
   display: block;
   height: 100%;
@@ -218,7 +214,6 @@
   width: 240px;
   height: 240px;
   border-radius: 160px;
-  margin: 34px;
   margin: 0 auto;
 }
 
